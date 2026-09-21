@@ -11,7 +11,8 @@ DISCORD_WEBHOOK_URL = "https://discord.com_"
 
 # GRUPPE 1: Positives Framing (Grüne Nachricht)
 PRO_USERS = [
-    "bernd_hoecke"
+    "bernd_hoecke",
+    "doktor_krieger"
 ]
 
 # GRUPPE 2: Negatives Framing (Rote Nachricht)
